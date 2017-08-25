@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+form {
+    padding-left: 8px;
+}
+table {
+    margin-top: 40px;
+}
+
+.todo-container {
+    background-color: white;
+    width: 630px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 35px 50px 20px 50px;
+}
